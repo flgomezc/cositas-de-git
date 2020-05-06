@@ -19,3 +19,7 @@ Felipe Leonardo Gómez Cortés nació en Bogotá en 1987. Estudió Física y MSc
 # Sobre el colaborador
 
 Daniel Rojas es estudiante de Geociencias en la Universidad de los Andes, nación en 1999 y le gustan los temas asociados a data science.
+
+# Sobre el otro colaborador
+
+Martín Domínguez Durán nació en Bogotá. Estudia Ing. Ambiental y Geociencias en la Universidad de los Andes.
