@@ -14,5 +14,5 @@ Esta es una tarea de Laboratorio de Métodos Computacionales
 
 # Acerca del Autor
 
-Felipe Leonardo Gómez Cortés nació en Bogotá en 1987 y murió en la Luna en 2098.
+Felipe Leonardo Gómez Cortés nació en Bogotá en 1987. Estudió Física y MSc en Física. Le gusta leer, montar en bicicleta, nadar y bucear.
 
